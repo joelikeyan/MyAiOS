@@ -1,0 +1,36 @@
+Design an AI-native operating system called **MyAi**.
+
+MyAi is the operating system for the Intelligence Age. It is not an app, assistant, or overlay—it is an AI that listens, reasons, and acts inside your operating environment.
+
+Core behavior:
+- Optional Always-on, natural voice interaction (with an optional wake words)
+- Conversational, intent-driven control of the system
+- Persistent memory, context, and task continuity
+- Multimodal by default (voice, vision, text, mouse, keyboard)
+
+MyAi includes a desktop agent that can:
+- See the screen
+- Move the mouse and type on the keyboard
+- Use real applications (browser, email, IDEs, office tools)
+- Log into sites using password managers and handle 2FA
+- Download, organize, and process files
+- Read PDFs, spreadsheets, and documents
+- Run scripts, CLI tools, and install software
+- Execute complex multi-step workflows across applications
+
+Users can control everything by voice, e.g.:
+“Open my email, download last week’s invoices, organize them by vendor, and summarize totals.”
+
+Design goals:
+- Intelligence over interfaces
+- Voice as a primary OS control surface
+- UI that adapts to cognitive load and context
+- Audible and Visual feedback of agent activity (what MyAi is doing, why, and what’s next)
+- Clear differentiation from traditional OS and browser-based agents
+
+Generate:
+- Agent simulations (step-by-step execution traces)
+- UI concepts and layouts
+- Voice interaction flows
+- System diagrams
+- Example user sessions
