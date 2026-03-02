@@ -22,5 +22,5 @@ Multistep Reasoning & Parallel Processing
 
 MyAi OS breaks down requests into multiple steps and directs them to specialized agents ensuring they have the necessary information to process tasks accurately. The Ai Bus coordinates how results and information are shared across agents while simultaneously managing multiple requests in parallel.
 
-MyAi OS understands the context and intent behind your requests. When agents come back with results, MyAi OS makes sure they’re appropriate, accurate and keeps processing if the task is<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/1f4d1225-8609-476d-966f-5f766ebd0d5f" />
-n’t done yet.
+MyAi OS understands the context and intent behind your requests. When agents come back with results, MyAi OS makes sure they’re appropriate, accurate and keeps processing if the task isn’t done yet.<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/1f4d1225-8609-476d-966f-5f766ebd0d5f" />
+
